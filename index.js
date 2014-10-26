@@ -2,7 +2,7 @@
 /**
  * @module movmv
  * @author diesweed
- * @version 6.0.0
+ * @version 7.0.0
  */
 
 export function api(){
